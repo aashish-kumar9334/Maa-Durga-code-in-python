@@ -117,4 +117,3 @@ Created with Python and devotion to Maa Durga.
 
 ⭐ If you like this project, consider giving the repository a star!
 
-#Python #PythonTurtle #MaaDurga #JaiMataDi #PythonProjects #CreativeCoding #BeginnerPython
